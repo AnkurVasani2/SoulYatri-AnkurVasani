@@ -1,0 +1,15 @@
+.env
+*.log
+conversation_history.json
+FER_dinamic_LSTM_Aff-Wild2.pt
+FER_static_ResNet50_AffectNet.pt
+test.py
+test2.py
+test3.py
+token.json
+.venv/
+audio_files/
+conversation_backups/
+reports/
+__pycache__/
+app.py
