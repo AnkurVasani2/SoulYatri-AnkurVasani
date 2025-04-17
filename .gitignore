@@ -13,3 +13,4 @@ conversation_backups/
 reports/
 __pycache__/
 app.py
+credentials.json.json
